@@ -68,7 +68,7 @@ a:hover{
 
 .country-table{
     width: 90%;
-    margin: 20 px auto;
+    margin: 20px auto;
     border-collapse: collapse;
 }
 
@@ -78,7 +78,7 @@ a:hover{
     text-align: center;
 }
 
-.country-table{
+.country-table th{
     background-color: #3498db;
     color: white;
     font-weight: bold;
